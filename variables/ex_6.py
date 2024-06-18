@@ -15,5 +15,4 @@ age = 22
 print(f"You are {age} years old.")
 
 for decade in range(10, 50, 10):
-    age += 10
-    print(f"In {decade} years, you will be {age} years old.")
+    print(f"In {decade} years, you will be {age + decade} years old.")
