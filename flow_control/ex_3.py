@@ -16,6 +16,6 @@ bar_code_scanner('113')
 bar_code_scanner(142)
 """
 
-# This code will print Product2 on one line and then print 'Product not found!' 
+# This code will print 'Product2' on one line and then print 'Product not found!' 
 # on another line.
 

@@ -17,5 +17,5 @@ my_range = range(10, 60, 10)
  ('c', 'Charlie', False, 30)]
 """
 
-print(list(zip(my_str, my_list, my_tuple, my_range))
+print(list(zip(my_str, my_list, my_tuple, my_range)))
 

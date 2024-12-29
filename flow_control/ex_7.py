@@ -16,7 +16,7 @@ number_range(-1)    # -1 is less than 0
 """
 
 def number_range(num):
-    if num > 0 and num =< 50:
+    if num > 0 and num <= 50:
         message_end = "between 0 and 50"
     elif num > 51 and num <= 100:
         message_end = "between 51 and 100"

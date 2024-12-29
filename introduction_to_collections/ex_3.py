@@ -9,6 +9,6 @@
  Both lists and tuples are sequences, which means their elements can be
  accessed by indexes. Tuples and lists are also heterogeneous, meaning they can
  contain different types of elements, and they do not all have to be the same
- within an instance of a list or tuple
+ within an instance of a list or tuple.
 """
 

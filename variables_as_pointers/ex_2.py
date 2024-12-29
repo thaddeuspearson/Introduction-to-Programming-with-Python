@@ -9,6 +9,6 @@
 
 # This will print {42, 'Monty Python', ('a', 'b', 'c'), range(5,10)}, since a
 # shallow copy was made on line 2, and both set1 and set2 point to the same set
-# in memory. Since this is a set, the order of the elements moght now print in
+# in memory. Since this is a set, the order of the elements might not print in
 # the exact same order.
 
